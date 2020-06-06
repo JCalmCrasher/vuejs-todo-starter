@@ -1,5 +1,5 @@
 # vue-todo
-
+Simple TO DO web app built with Vue
 ## Project setup
 ```
 npm install
